@@ -1,0 +1,6 @@
+DI725_project_dataset/
+.DS_Store
+__pycache__/
+wandb/
+.ipynb_checkpoints/
+*.zip
